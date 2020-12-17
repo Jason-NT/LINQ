@@ -1,0 +1,13 @@
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.csprojAssemblyReference.cache
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.AssemblyInfoInputs.cache
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.AssemblyInfo.cs
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.csproj.CoreCompileInputs.cache
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.exe
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.deps.json
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.runtimeconfig.json
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.runtimeconfig.dev.json
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.dll
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.pdb
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.dll
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.pdb
+C:\Users\22NonatoTrejoJ\source\repos\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.genruntimeconfig.cache
